@@ -1026,7 +1026,7 @@ A requirements model is a set of these diagrams, each of which focuses on a diff
 
 The use-case diagram is used to show what activities are carried by the user instructor and admin that are involved in the system. In this project, the users use the application and instructor create the class admin control overall application. Different activities are carried out by the user and admin supervised these activities.
 
-![](presentation/usecase.jpg)
+![](presentation/use-case.png)
 
 Figure: Use case diagram
 
@@ -1052,7 +1052,7 @@ The phase of the design of computer architecture and software architecture can a
 5.3 CONTEXT FLOW DAIGRAM
 ------------------------
 
-![](presentation/UML_of_classmnk.png)
+![](presentation/context-flow.jpg)
 
 Figure: Context Diagram
 
