@@ -665,7 +665,7 @@ Phone: +9779851198411, +9779806859377
 
 Official Logo:
 
-![](softweb.png)
+![](presentation/softweb.png)
 
 Figure: Official Logo
 
@@ -1026,7 +1026,7 @@ A requirements model is a set of these diagrams, each of which focuses on a diff
 
 The use-case diagram is used to show what activities are carried by the user instructor and admin that are involved in the system. In this project, the users use the application and instructor create the class admin control overall application. Different activities are carried out by the user and admin supervised these activities.
 
-![](doc_html_9911715d00b05795.png)
+![](presentation/usecase.jpg)
 
 Figure: Use case diagram
 
@@ -1052,7 +1052,7 @@ The phase of the design of computer architecture and software architecture can a
 5.3 CONTEXT FLOW DAIGRAM
 ------------------------
 
-![](doc_html_d88b498756aa5e03.png)
+![](presentation/UML_of_classmnk.png)
 
 Figure: Context Diagram
 
@@ -1061,7 +1061,7 @@ Context Diagram shows the general system architecture of Classmonk. This system 
 5.4 DATA FLOW DIAGRAM
 ---------------------
 
-![](doc_html_38d39745df82ec2a.png)
+![](presentation/report-dfd.png)
 
 Figure: Data Flow Diagram
 
